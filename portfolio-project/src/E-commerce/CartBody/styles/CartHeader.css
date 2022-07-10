@@ -1,0 +1,6 @@
+#cart-header-wrapper {
+    display : flex;
+    justify-content: space-between;
+    box-shadow:  rgb(190, 188, 188) 0px 2px 5px;
+    align-items: center;
+}

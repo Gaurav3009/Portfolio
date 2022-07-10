@@ -1,0 +1,9 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+#icons:hover {
+  transform: scale(1.1);
+  transition: 400ms ease-in-out;
+}
